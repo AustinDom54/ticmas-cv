@@ -74,7 +74,7 @@ header img {
 	display: flex;
 	justify-content: space-between;
 	width: 40%;
-	outline: 1px solid lime;
+	/* outline: 1px solid lime; */
 }
 
 .category-icon {
